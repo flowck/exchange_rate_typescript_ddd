@@ -11,13 +11,27 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+      models.countries.hasOne(models.currencies, { foreignKey: 'countriesId', as: 'currency' });
     }
   };
   countries.init({
+    id: {
+      type: DataTypes.UUID,
+      defaultValue: DataTypes.UUIDV4,
+      primaryKey: true,
+      allowNull: false
+    },
     name: DataTypes.STRING,
-    id: DataTypes.UUID,
     flag: DataTypes.STRING,
-    code: DataTypes.STRING
+    code: DataTypes.STRING,
+    createdAt: {
+      allowNull: false,
+      type: DataTypes.DATE
+    },
+    updatedAt: {
+      allowNull: false,
+      type: DataTypes.DATE
+    }
   }, {
     sequelize,
     modelName: 'countries',

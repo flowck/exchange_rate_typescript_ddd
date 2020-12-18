@@ -4,12 +4,9 @@ module.exports = {
     await queryInterface.createTable('currencies', {
       id: {
         allowNull: false,
-        autoIncrement: true,
         primaryKey: true,
-        type: Sequelize.INTEGER
-      },
-      id: {
-        type: Sequelize.UUID
+        type: Sequelize.UUID,
+        defaultValue: Sequelize.UUIDV4
       },
       countriesId: {
         type: Sequelize.UUID
@@ -19,9 +16,6 @@ module.exports = {
       },
       code: {
         type: Sequelize.STRING
-      },
-      id: {
-        type: Sequelize.UUID
       },
       createdAt: {
         allowNull: false,

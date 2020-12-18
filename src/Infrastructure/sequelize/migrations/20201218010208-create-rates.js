@@ -4,24 +4,30 @@ module.exports = {
     await queryInterface.createTable('rates', {
       id: {
         allowNull: false,
-        autoIncrement: true,
         primaryKey: true,
-        type: Sequelize.INTEGER
+        type: Sequelize.UUID,
+        defaultValue: Sequelize.UUIDV4
       },
       baseCurrenciesId: {
-        type: Sequelize.UUID
+        type: Sequelize.UUID,
+        references: {
+          key: 'id',
+          model: 'currencies',
+        }
       },
       timestamp: {
         type: Sequelize.DATE
       },
       value: {
-        type: Sequelize.DOUBLE
+        type: Sequelize.DOUBLE,
+        allowNull: false
       },
       equivalentCurrenciesId: {
-        type: Sequelize.UUID
-      },
-      id: {
-        type: Sequelize.UUID
+        type: Sequelize.UUID,
+        references: {
+          key: 'id',
+          model: 'currencies',
+        }
       },
       createdAt: {
         allowNull: false,

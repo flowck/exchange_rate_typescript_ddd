@@ -4,21 +4,53 @@ const {
 } = require('sequelize');
 module.exports = (sequelize, DataTypes) => {
   class rates extends Model {
-    /**
-     * Helper method for defining associations.
-     * This method is not a part of Sequelize lifecycle.
-     * The `models/index` file will call this method automatically.
-     */
     static associate(models) {
-      // define association here
+      // Belongs to
+      models.rates.belongsTo(models.currencies, {
+        foreignKey: 'baseCurrenciesId',
+        as: 'rates'
+      });
+
+      models.currencies.belongsTo(models.currencies, {
+        foreignKey: 'equivalentCurrenciesId',
+        as: 'equivalentRates'
+      });
     }
   };
   rates.init({
-    baseCurrenciesId: DataTypes.UUID,
+    baseCurrenciesId: {
+      type: DataTypes.UUID,
+      references: {
+        key: 'id',
+        model: 'currencies',
+      }
+    },
     timestamp: DataTypes.DATE,
-    value: DataTypes.DOUBLE,
-    equivalentCurrenciesId: DataTypes.UUID,
-    id: DataTypes.UUID
+    value: {
+      type: DataTypes.DOUBLE,
+      allowNull: false
+    },
+    equivalentCurrenciesId: {
+      type: DataTypes.UUID,
+      references: {
+        key: 'id',
+        model: 'currencies',
+      }
+    },
+    id: {
+      allowNull: false,
+      primaryKey: true,
+      type: DataTypes.UUID,
+      defaultValue: DataTypes.UUIDV4,
+    },
+    createdAt: {
+      allowNull: false,
+      type: DataTypes.DATE
+    },
+    updatedAt: {
+      allowNull: false,
+      type: DataTypes.DATE
+    }
   }, {
     sequelize,
     modelName: 'rates',

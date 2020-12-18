@@ -1,0 +1,9 @@
+const path = require('path');
+const baseDir = process.env.NODE_ENV === "production" ? "build" : "src";
+
+module.exports = {
+  'config':          path.resolve(baseDir, 'Infrastructure', 'sequelize', 'config', 'config.js'),
+  'migrations-path': path.resolve(baseDir, 'Infrastructure', 'sequelize', 'migrations'),
+  'models-path': path.resolve(baseDir, 'Infrastructure', 'sequelize', 'models'),
+  'seeders-path': path.resolve(baseDir, 'Infrastructure', 'sequelize', 'seeders'),
+}

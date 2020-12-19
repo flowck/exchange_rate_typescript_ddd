@@ -1,13 +1,8 @@
 import Controller from "./Controller"
-import express, { Router } from "express";
-import User, { IUser } from "Domain/Entities/User";
-import selfish from "Infrastructure/utils/selfish";
+import { Request, Response } from "express";
+import User, { IUser } from "Domain/User/User";
 const models = require("Infrastructure/sequelize/models");
 import UserRepository from "Infrastructure/repositories/UserRepository";
-import * as userGuards from "API/guards/users";
-import { validate as guard } from "express-validation";
-
-const router = Router();
 
 export default class UserController extends Controller {
   public repository!: UserRepository;
@@ -17,11 +12,11 @@ export default class UserController extends Controller {
     this.repository = new UserRepository(models);
   }
 
-  public getUser(request: express.Request, response: express.Response) {
+  public getUser(request: Request, response: Response) {
     this.responseOk(response, { message: "Hello World" });
   }
 
-  public async login(request: express.Request, response: express.Response) {
+  public async login(request: Request, response: Response) {
     const { email }: IUser = request.body;
 
     // Check email on the DB
@@ -30,10 +25,3 @@ export default class UserController extends Controller {
     this.responseOk(response, user);
   }
 }
-
-const controller = selfish(new UserController());
-
-router.get("/", controller.getUser);
-router.get("/login", guard(userGuards.login), controller.login);
-
-export const userRoutes = router;

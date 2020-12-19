@@ -1,7 +1,7 @@
 /**
  * User entity 
 */
-import Entity from "./Entity";
+import Entity from "../Entity";
 
 export interface IUser {
   name: string;

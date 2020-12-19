@@ -1,4 +1,4 @@
-import Currency from "Domain/Entities/Currency";
+import Currency from "Domain/Currency/Currency";
 
 export default abstract class IRateRepository {
   public getRate() { }

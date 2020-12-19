@@ -1,7 +1,7 @@
 /**
  * exchange_rate
 */
-import apiV1 from "./v1";
+import apiV1 from "API/routes/v1";
 import helmet from "helmet";
 import express from "express";
 import bodyParser from "body-parser";

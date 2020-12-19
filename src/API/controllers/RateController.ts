@@ -1,29 +1,28 @@
+import Rate from "Domain/Rate/Rate";
 import Controller from "./Controller"
-import express, { Router } from "express";
-import Rate from "Domain/Entities/Rate";
-import selfish from "Infrastructure/utils/selfish";
+import { Request, Response } from "express";
 const models = require("Infrastructure/sequelize/models");
 import RateRepository from "Infrastructure/repositories/RateRepository";
-// import * as userGuards from "API/guards/users";
-// import { validate as guard } from "express-validation";
-
-const router = Router();
+import RateUseCases from "Domain/Rate/RateUseCases";
 
 export default class RateController extends Controller {
   public repository!: RateRepository;
+  public rateUseCases!: RateUseCases;
 
   constructor() {
     super();
-    this.repository = new RateRepository(models);
+    this.rateUseCases = new RateUseCases(models);
   }
 
-  public getRates(request: express.Request, response: express.Response) {
-    this.responseOk(response, { message: "Hello World" });
+  public async getRates(req: Request, res: Response) {
+    // const rates = await this.repository.getRate();
+    this.responseOk(res, {});
+  }
+
+  public async registRate(req: Request, res: Response) {
+    const { baseCurrenciesId, equivalentCurrenciesId, value } = req.body;
+    const rate = new Rate(baseCurrenciesId, equivalentCurrenciesId, value).create();
+    const result = this.rateUseCases.registRate(rate);
+    this.responseOk(res, result);
   }
 }
-
-const controller = selfish(new RateController());
-
-router.get("/", controller.getRates);
-
-export const ratesRoutes = router;

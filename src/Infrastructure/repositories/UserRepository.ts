@@ -1,5 +1,5 @@
-import User from "Domain/Entities/User";
-import IUserRepository from "Domain/Repositories/IUserRepository";
+import User from "Domain/User/User";
+import IUserRepository from "Domain/User/IUserRepository";
 
 export default class UserRepository implements IUserRepository {
   private models: any;

@@ -10,7 +10,8 @@
     "db:drop": "sequelize db:drop",
     "db:create": "sequelize db:create",
     "db:migrate": "sequelize db:migrate",
-    "db:seed:all": "sequelize db:seed:all"
+    "db:seed:all": "sequelize db:seed:all",
+    "db:restart": "./src/Infrastructure/scripts/db_fresh_start.sh"
   },
   "repository": {
     "type": "git",
@@ -32,6 +33,8 @@
     "helmet": "^4.2.0",
     "joi": "^17.3.0",
     "module-alias": "^2.2.2",
+    "mongoose": "^5.11.8",
+    "morgan": "^1.10.0",
     "pg": "^8.5.1",
     "pg-hstore": "^2.3.3",
     "sequelize": "^6.3.5",
@@ -40,6 +43,8 @@
   "devDependencies": {
     "@types/compression": "^1.7.0",
     "@types/express": "^4.17.9",
+    "@types/mongoose": "^5.10.3",
+    "@types/morgan": "^1.9.2",
     "nodemon": "^2.0.6",
     "ts-node": "^9.1.1",
     "tsconfig-paths": "^3.9.0"

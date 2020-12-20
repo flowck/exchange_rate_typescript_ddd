@@ -26,13 +26,21 @@ export default class RateUseCases {
   public async registRate(rate: IRate) {
     try {
       const _rate = await this.repository.save(rate);
-      this.ok(_rate);
+      return this.ok(_rate);
+    } catch (error) {
+      return this.notOk(error);
+    }
+  }
+
+  public async viewRates() {
+    try {
+      const rates = await this.repository.getRates();
+      return this.ok(rates);
     } catch (error) {
       this.notOk(error);
     }
   }
 
-  public viewRates() { }
   public viewRate() { }
   public updateRate() { }
   public removeRate() { }

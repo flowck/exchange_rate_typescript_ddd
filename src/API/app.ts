@@ -1,9 +1,10 @@
 /**
  * exchange_rate
 */
-import apiV1 from "API/routes/v1";
+import morgan from "morgan";
 import helmet from "helmet";
 import express from "express";
+import apiV1 from "API/routes/v1";
 import bodyParser from "body-parser";
 import compression from "compression";
 import { ENV } from "Infrastructure/constants";
@@ -14,6 +15,7 @@ const { NODE_ENV } = process.env;
 const PORT = Number(NODE_ENV) || 8080;
 
 app.use(helmet());
+// app.use(morgan('combined', {}));
 app.use(compression());
 app.use(bodyParser.json());
 

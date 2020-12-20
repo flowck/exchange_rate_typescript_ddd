@@ -1,3 +1,7 @@
+/**
+ * Repository interfaces to be implemented in infrastructure
+*/
+
 import Currency from "Domain/Currency/Currency";
 
 export default abstract class IRateRepository {

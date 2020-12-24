@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 const rates_data = require("./rates.json");
 const models = require("../models");
 const uuid = require("uuid");
@@ -17,40 +17,37 @@ module.exports = {
     const [currencies] = await models.sequelize.query('SELECT id, code FROM "Currency";');
     const createdAndUpdatedAt = { createdAt: new Date(), updatedAt: new Date() };
 
-    console.log(currencies);
-
     // Create new rate
-    await queryInterface.bulkInsert('Rate', [
+    await queryInterface.bulkInsert("Rate", [
       {
         id: rateId,
+        currencyId: currencies.find((item) => item.code === "USD").id,
         timestamp: new Date(),
-        ...createdAndUpdatedAt
-      }
+        ...createdAndUpdatedAt,
+      },
     ]);
-    console.log('Rate created');
 
     // Create a lookup table with the following format { "currency_code": "currency_db_id" }
-    currencies.forEach(currency => (_currencies[currency.code] = currency.id));
+    currencies.forEach((currency) => (_currencies[currency.code] = currency.id));
 
     // Create rate values
-    Object.keys(rates_data.rates).forEach(code => {
+    Object.keys(rates_data.rates).forEach((code) => {
       const currencyId = _currencies[code];
-      console.log(currencyId);
       if (currencyId) {
         rateValues.push({
           id: uuid.v4(),
           rateId,
           currencyId,
           value: rates_data.rates[code],
-          ...createdAndUpdatedAt
+          ...createdAndUpdatedAt,
         });
       }
     });
 
     console.log(rateValues);
-    await queryInterface.bulkInsert('RateValue', rateValues, {});
+    await queryInterface.bulkInsert("RateValue", rateValues, {});
   },
   down: async (queryInterface, Sequelize) => {
-    await queryInterface.bulkDelete('RateValue', null, {});
-  }
+    await queryInterface.bulkDelete("RateValue", null, {});
+  },
 };

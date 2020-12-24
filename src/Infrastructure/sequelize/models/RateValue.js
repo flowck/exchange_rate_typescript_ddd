@@ -1,5 +1,7 @@
-'use strict';
-const { Model } = require('sequelize');
+"use strict";
+const { Model } = require("sequelize");
+const { ASS_CURRENCY_RATE_VALUE, ASS_RATE_RATE_VALUE } = require("../config/constants");
+
 module.exports = (sequelize, DataTypes) => {
   class RateValue extends Model {
     /**
@@ -8,32 +10,44 @@ module.exports = (sequelize, DataTypes) => {
      * The `models/index` file will call this method automatically.
      */
     static associate(models) {
-      // define association here
-      models.RateValue.belongsTo(models.Rate, { foreignKey: 'rateId' });
-      models.RateValue.belongsTo(models.Currency, { foreignKey: 'currencyId' });
-    }
-  };
+      // Belongs to Rate
+      models.RateValue.belongsTo(models.Rate, {
+        foreignKey: "rateId",
+        as: ASS_RATE_RATE_VALUE,
+      });
 
-  RateValue.init({
-    rateId: {
-      type: DataTypes.UUID,
-      references: {
-        model: 'Rate',
-        key: 'id'
-      }
+      // Belongs to Currency
+      models.RateValue.belongsTo(models.Currency, {
+        foreignKey: "currencyId",
+        as: ASS_CURRENCY_RATE_VALUE,
+      });
+    }
+  }
+
+  RateValue.init(
+    {
+      rateId: {
+        type: DataTypes.UUID,
+        references: {
+          model: "Rate",
+          key: "id",
+        },
+      },
+      currencyId: {
+        type: DataTypes.UUID,
+        references: {
+          model: "Currency",
+          key: "id",
+        },
+      },
+      value: DataTypes.DOUBLE,
     },
-    currencyId: {
-      type: DataTypes.UUID,
-      references: {
-        model: 'Currency',
-        key: 'id'
-      }
-    },
-    value: DataTypes.DOUBLE
-  }, {
-    sequelize,
-    modelName: 'RateValue',
-  });
+    {
+      sequelize,
+      freezeTableName: true,
+      modelName: "RateValue",
+    }
+  );
 
   return RateValue;
 };

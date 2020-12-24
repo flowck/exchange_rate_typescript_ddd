@@ -8,10 +8,8 @@ export default class BaseController {
   }
 
   public response500(response: express.Response) {
-    response
-      .status(500)
-      .json({
-        message: "System is not responding. Please be patient it will be back soon.",
-      });
+    response.status(500).json({
+      message: "System is not responding. Please be patient it will be back soon.",
+    });
   }
 }

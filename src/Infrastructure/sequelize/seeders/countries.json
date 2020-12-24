@@ -234,23 +234,13 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       },
       {
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "ALG"
@@ -413,13 +403,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "ANG"
@@ -596,11 +580,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       }
     ],
     "cioc": "ANT"
@@ -680,12 +660,7 @@
     "alpha3Code": "ARM",
     "callingCodes": ["374"],
     "capital": "Yerevan",
-    "altSpellings": [
-      "AM",
-      "Hayastan",
-      "Republic of Armenia",
-      "Հայաստանի Հանրապետություն"
-    ],
+    "altSpellings": ["AM", "Hayastan", "Republic of Armenia", "Հայաստանի Հանրապետություն"],
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 2994400,
@@ -1015,11 +990,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       }
     ],
     "cioc": "BAH"
@@ -1076,11 +1047,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "BRN"
@@ -1092,11 +1059,7 @@
     "alpha3Code": "BGD",
     "callingCodes": ["880"],
     "capital": "Dhaka",
-    "altSpellings": [
-      "BD",
-      "People's Republic of Bangladesh",
-      "Gônôprôjatôntri Bangladesh"
-    ],
+    "altSpellings": ["BD", "People's Republic of Bangladesh", "Gônôprôjatôntri Bangladesh"],
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 161006790,
@@ -1198,11 +1161,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       }
     ],
     "cioc": "BAR"
@@ -1420,11 +1379,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       },
       {
         "acronym": "CAIS",
@@ -1487,13 +1442,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "BEN"
@@ -1870,13 +1819,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "BOT"
@@ -1950,12 +1893,7 @@
     "alpha3Code": "BRA",
     "callingCodes": ["55"],
     "capital": "Brasília",
-    "altSpellings": [
-      "BR",
-      "Brasil",
-      "Federative Republic of Brazil",
-      "República Federativa do Brasil"
-    ],
+    "altSpellings": ["BR", "Brasil", "Federative Republic of Brazil", "República Federativa do Brasil"],
     "region": "Americas",
     "subregion": "South America",
     "population": 206135893,
@@ -2062,13 +2000,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": ""
@@ -2405,13 +2337,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "BUR"
@@ -2423,12 +2349,7 @@
     "alpha3Code": "BDI",
     "callingCodes": ["257"],
     "capital": "Bujumbura",
-    "altSpellings": [
-      "BI",
-      "Republic of Burundi",
-      "Republika y'Uburundi",
-      "République du Burundi"
-    ],
+    "altSpellings": ["BI", "Republic of Burundi", "Republika y'Uburundi", "République du Burundi"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 10114505,
@@ -2479,13 +2400,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "BDI"
@@ -2610,13 +2525,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "CMR"
@@ -2636,14 +2545,7 @@
     "demonym": "Canadian",
     "area": 9984670.0,
     "gini": 32.6,
-    "timezones": [
-      "UTC-08:00",
-      "UTC-07:00",
-      "UTC-06:00",
-      "UTC-05:00",
-      "UTC-04:00",
-      "UTC-03:30"
-    ],
+    "timezones": ["UTC-08:00", "UTC-07:00", "UTC-06:00", "UTC-05:00", "UTC-04:00", "UTC-03:30"],
     "borders": ["USA"],
     "nativeName": "Canada",
     "numericCode": "124",
@@ -2686,10 +2588,7 @@
         "acronym": "NAFTA",
         "name": "North American Free Trade Agreement",
         "otherAcronyms": [],
-        "otherNames": [
-          "Tratado de Libre Comercio de América del Norte",
-          "Accord de Libre-échange Nord-Américain"
-        ]
+        "otherNames": ["Tratado de Libre Comercio de América del Norte", "Accord de Libre-échange Nord-Américain"]
       }
     ],
     "cioc": "CAN"
@@ -2746,13 +2645,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "CPV"
@@ -2865,13 +2758,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "CAF"
@@ -2934,13 +2821,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "CHA"
@@ -3262,13 +3143,7 @@
     "alpha3Code": "COM",
     "callingCodes": ["269"],
     "capital": "Moroni",
-    "altSpellings": [
-      "KM",
-      "Union of the Comoros",
-      "Union des Comores",
-      "Udzima wa Komori",
-      "al-Ittiḥād al-Qumurī"
-    ],
+    "altSpellings": ["KM", "Union of the Comoros", "Union des Comores", "Udzima wa Komori", "al-Ittiḥād al-Qumurī"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 806153,
@@ -3319,23 +3194,13 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       },
       {
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "COM"
@@ -3398,13 +3263,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "CGO"
@@ -3485,13 +3344,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "COD"
@@ -3727,14 +3580,7 @@
     "alpha3Code": "CUW",
     "callingCodes": ["599"],
     "capital": "Willemstad",
-    "altSpellings": [
-      "CW",
-      "Curacao",
-      "Kòrsou",
-      "Country of Curaçao",
-      "Land Curaçao",
-      "Pais Kòrsou"
-    ],
+    "altSpellings": ["CW", "Curacao", "Kòrsou", "Country of Curaçao", "Land Curaçao", "Pais Kòrsou"],
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 154843,
@@ -3796,14 +3642,7 @@
     "alpha3Code": "CYP",
     "callingCodes": ["357"],
     "capital": "Nicosia",
-    "altSpellings": [
-      "CY",
-      "Kýpros",
-      "Kıbrıs",
-      "Republic of Cyprus",
-      "Κυπριακή Δημοκρατία",
-      "Kıbrıs Cumhuriyeti"
-    ],
+    "altSpellings": ["CY", "Kýpros", "Kıbrıs", "Republic of Cyprus", "Κυπριακή Δημοκρατία", "Kıbrıs Cumhuriyeti"],
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 847000,
@@ -4051,23 +3890,13 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       },
       {
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "DJI"
@@ -4174,11 +4003,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       },
       {
         "acronym": "CAIS",
@@ -4303,23 +4128,13 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       },
       {
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "EGY"
@@ -4445,13 +4260,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "GEQ"
@@ -4463,15 +4272,7 @@
     "alpha3Code": "ERI",
     "callingCodes": ["291"],
     "capital": "Asmara",
-    "altSpellings": [
-      "ER",
-      "State of Eritrea",
-      "ሃገረ ኤርትራ",
-      "Dawlat Iritriyá",
-      "ʾErtrā",
-      "Iritriyā",
-      ""
-    ],
+    "altSpellings": ["ER", "State of Eritrea", "ሃገረ ኤርትራ", "Dawlat Iritriyá", "ʾErtrā", "Iritriyā", ""],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 5352000,
@@ -4528,13 +4329,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "ERI"
@@ -4603,12 +4398,7 @@
     "alpha3Code": "ETH",
     "callingCodes": ["251"],
     "capital": "Addis Ababa",
-    "altSpellings": [
-      "ET",
-      "ʾĪtyōṗṗyā",
-      "Federal Democratic Republic of Ethiopia",
-      "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
-    ],
+    "altSpellings": ["ET", "ʾĪtyōṗṗyā", "Federal Democratic Republic of Ethiopia", "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 92206005,
@@ -4653,13 +4443,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "ETH"
@@ -4795,13 +4579,7 @@
     "alpha3Code": "FJI",
     "callingCodes": ["679"],
     "capital": "Suva",
-    "altSpellings": [
-      "FJ",
-      "Viti",
-      "Republic of Fiji",
-      "Matanitu ko Viti",
-      "Fijī Gaṇarājya"
-    ],
+    "altSpellings": ["FJ", "Viti", "Republic of Fiji", "Matanitu ko Viti", "Fijī Gaṇarājya"],
     "region": "Oceania",
     "subregion": "Melanesia",
     "population": 867000,
@@ -4869,13 +4647,7 @@
     "alpha3Code": "FIN",
     "callingCodes": ["358"],
     "capital": "Helsinki",
-    "altSpellings": [
-      "FI",
-      "Suomi",
-      "Republic of Finland",
-      "Suomen tasavalta",
-      "Republiken Finland"
-    ],
+    "altSpellings": ["FI", "Suomi", "Republic of Finland", "Suomen tasavalta", "Republiken Finland"],
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 5491817,
@@ -5171,13 +4943,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": ""
@@ -5234,13 +5000,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "GAB"
@@ -5297,13 +5057,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "GAM"
@@ -5467,13 +5221,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "GHA"
@@ -5694,11 +5442,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       }
     ],
     "cioc": "GRN"
@@ -5991,13 +5735,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "GUI"
@@ -6054,13 +5792,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "GBS"
@@ -6117,11 +5849,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       },
       {
         "acronym": "USAN",
@@ -6195,11 +5923,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       }
     ],
     "cioc": "HAI"
@@ -6676,12 +6400,7 @@
     "alpha3Code": "CIV",
     "callingCodes": ["225"],
     "capital": "Yamoussoukro",
-    "altSpellings": [
-      "CI",
-      "Ivory Coast",
-      "Republic of Côte d'Ivoire",
-      "République de Côte d'Ivoire"
-    ],
+    "altSpellings": ["CI", "Ivory Coast", "Republic of Côte d'Ivoire", "République de Côte d'Ivoire"],
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 22671331,
@@ -6726,13 +6445,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "CIV"
@@ -6845,11 +6558,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "IRQ"
@@ -7150,11 +6859,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       }
     ],
     "cioc": "JAM"
@@ -7216,12 +6921,7 @@
     "alpha3Code": "JEY",
     "callingCodes": ["44"],
     "capital": "Saint Helier",
-    "altSpellings": [
-      "JE",
-      "Bailiwick of Jersey",
-      "Bailliage de Jersey",
-      "Bailliage dé Jèrri"
-    ],
+    "altSpellings": ["JE", "Bailiwick of Jersey", "Bailliage de Jersey", "Bailliage dé Jèrri"],
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 100800,
@@ -7282,11 +6982,7 @@
     "alpha3Code": "JOR",
     "callingCodes": ["962"],
     "capital": "Amman",
-    "altSpellings": [
-      "JO",
-      "Hashemite Kingdom of Jordan",
-      "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
-    ],
+    "altSpellings": ["JO", "Hashemite Kingdom of Jordan", "al-Mamlakah al-Urdunīyah al-Hāshimīyah"],
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 9531712,
@@ -7331,11 +7027,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "JOR"
@@ -7470,13 +7162,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "KEN"
@@ -7588,11 +7274,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "KUW"
@@ -7604,13 +7286,7 @@
     "alpha3Code": "KGZ",
     "callingCodes": ["996"],
     "capital": "Bishkek",
-    "altSpellings": [
-      "KG",
-      "Киргизия",
-      "Kyrgyz Republic",
-      "Кыргыз Республикасы",
-      "Kyrgyz Respublikasy"
-    ],
+    "altSpellings": ["KG", "Киргизия", "Kyrgyz Republic", "Кыргыз Республикасы", "Kyrgyz Respublikasy"],
     "region": "Asia",
     "subregion": "Central Asia",
     "population": 6047800,
@@ -7673,13 +7349,7 @@
     "alpha3Code": "LAO",
     "callingCodes": ["856"],
     "capital": "Vientiane",
-    "altSpellings": [
-      "LA",
-      "Lao",
-      "Laos",
-      "Lao People's Democratic Republic",
-      "Sathalanalat Paxathipatai Paxaxon Lao"
-    ],
+    "altSpellings": ["LA", "Lao", "Laos", "Lao People's Democratic Republic", "Sathalanalat Paxathipatai Paxaxon Lao"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 6492400,
@@ -7844,11 +7514,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "LIB"
@@ -7916,13 +7582,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "LES"
@@ -7979,13 +7639,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "LBR"
@@ -8042,23 +7696,13 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       },
       {
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "LBA"
@@ -8378,12 +8022,7 @@
     "alpha3Code": "MDG",
     "callingCodes": ["261"],
     "capital": "Antananarivo",
-    "altSpellings": [
-      "MG",
-      "Republic of Madagascar",
-      "Repoblikan'i Madagasikara",
-      "République de Madagascar"
-    ],
+    "altSpellings": ["MG", "Republic of Madagascar", "Repoblikan'i Madagasikara", "République de Madagascar"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 22434363,
@@ -8434,13 +8073,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "MAD"
@@ -8503,13 +8136,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "MAW"
@@ -8578,12 +8205,7 @@
     "alpha3Code": "MDV",
     "callingCodes": ["960"],
     "capital": "Malé",
-    "altSpellings": [
-      "MV",
-      "Maldive Islands",
-      "Republic of the Maldives",
-      "Dhivehi Raajjeyge Jumhooriyya"
-    ],
+    "altSpellings": ["MV", "Maldive Islands", "Republic of the Maldives", "Dhivehi Raajjeyge Jumhooriyya"],
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 344023,
@@ -8685,13 +8307,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "MLI"
@@ -8872,11 +8488,7 @@
     "alpha3Code": "MRT",
     "callingCodes": ["222"],
     "capital": "Nouakchott",
-    "altSpellings": [
-      "MR",
-      "Islamic Republic of Mauritania",
-      "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
-    ],
+    "altSpellings": ["MR", "Islamic Republic of Mauritania", "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"],
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 3718678,
@@ -8921,23 +8533,13 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       },
       {
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "MTN"
@@ -8994,13 +8596,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "MRI"
@@ -9057,13 +8653,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": ""
@@ -9075,12 +8665,7 @@
     "alpha3Code": "MEX",
     "callingCodes": ["52"],
     "capital": "Mexico City",
-    "altSpellings": [
-      "MX",
-      "Mexicanos",
-      "United Mexican States",
-      "Estados Unidos Mexicanos"
-    ],
+    "altSpellings": ["MX", "Mexicanos", "United Mexican States", "Estados Unidos Mexicanos"],
     "region": "Americas",
     "subregion": "Central America",
     "population": 122273473,
@@ -9131,10 +8716,7 @@
         "acronym": "NAFTA",
         "name": "North American Free Trade Agreement",
         "otherAcronyms": [],
-        "otherNames": [
-          "Tratado de Libre Comercio de América del Norte",
-          "Accord de Libre-échange Nord-Américain"
-        ]
+        "otherNames": ["Tratado de Libre Comercio de América del Norte", "Accord de Libre-échange Nord-Américain"]
       }
     ],
     "cioc": "MEX"
@@ -9478,11 +9060,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       }
     ],
     "cioc": ""
@@ -9539,23 +9117,13 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       },
       {
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "MAR"
@@ -9612,13 +9180,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "MOZ"
@@ -9630,12 +9192,7 @@
     "alpha3Code": "MMR",
     "callingCodes": ["95"],
     "capital": "Naypyidaw",
-    "altSpellings": [
-      "MM",
-      "Burma",
-      "Republic of the Union of Myanmar",
-      "Pyidaunzu Thanmăda Myăma Nainngandaw"
-    ],
+    "altSpellings": ["MM", "Burma", "Republic of the Union of Myanmar", "Pyidaunzu Thanmăda Myăma Nainngandaw"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 51419420,
@@ -9748,13 +9305,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "NAM"
@@ -9766,13 +9317,7 @@
     "alpha3Code": "NRU",
     "callingCodes": ["674"],
     "capital": "Yaren",
-    "altSpellings": [
-      "NR",
-      "Naoero",
-      "Pleasant Island",
-      "Republic of Nauru",
-      "Ripublik Naoero"
-    ],
+    "altSpellings": ["NR", "Naoero", "Pleasant Island", "Republic of Nauru", "Ripublik Naoero"],
     "region": "Oceania",
     "subregion": "Micronesia",
     "population": 10084,
@@ -9833,11 +9378,7 @@
     "alpha3Code": "NPL",
     "callingCodes": ["977"],
     "capital": "Kathmandu",
-    "altSpellings": [
-      "NP",
-      "Federal Democratic Republic of Nepal",
-      "Loktāntrik Ganatantra Nepāl"
-    ],
+    "altSpellings": ["NP", "Federal Democratic Republic of Nepal", "Loktāntrik Ganatantra Nepāl"],
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 28431500,
@@ -10159,13 +9700,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "NIG"
@@ -10222,13 +9757,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "NGR"
@@ -10400,11 +9929,7 @@
     "alpha3Code": "MNP",
     "callingCodes": ["1670"],
     "capital": "Saipan",
-    "altSpellings": [
-      "MP",
-      "Commonwealth of the Northern Mariana Islands",
-      "Sankattan Siha Na Islas Mariånas"
-    ],
+    "altSpellings": ["MP", "Commonwealth of the Northern Mariana Islands", "Sankattan Siha Na Islas Mariånas"],
     "region": "Oceania",
     "subregion": "Micronesia",
     "population": 56940,
@@ -10460,14 +9985,7 @@
     "alpha3Code": "NOR",
     "callingCodes": ["47"],
     "capital": "Oslo",
-    "altSpellings": [
-      "NO",
-      "Norge",
-      "Noreg",
-      "Kingdom of Norway",
-      "Kongeriket Norge",
-      "Kongeriket Noreg"
-    ],
+    "altSpellings": ["NO", "Norge", "Noreg", "Kingdom of Norway", "Kongeriket Norge", "Kongeriket Noreg"],
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 5223256,
@@ -10581,11 +10099,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "OMA"
@@ -10597,12 +10111,7 @@
     "alpha3Code": "PAK",
     "callingCodes": ["92"],
     "capital": "Islamabad",
-    "altSpellings": [
-      "PK",
-      "Pākistān",
-      "Islamic Republic of Pakistan",
-      "Islāmī Jumhūriya'eh Pākistān"
-    ],
+    "altSpellings": ["PK", "Pākistān", "Islamic Republic of Pakistan", "Islāmī Jumhūriya'eh Pākistān"],
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 194125062,
@@ -10765,11 +10274,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "PLE"
@@ -10843,11 +10348,7 @@
     "alpha3Code": "PNG",
     "callingCodes": ["675"],
     "capital": "Port Moresby",
-    "altSpellings": [
-      "PG",
-      "Independent State of Papua New Guinea",
-      "Independen Stet bilong Papua Niugini"
-    ],
+    "altSpellings": ["PG", "Independent State of Papua New Guinea", "Independen Stet bilong Papua Niugini"],
     "region": "Oceania",
     "subregion": "Melanesia",
     "population": 8083700,
@@ -10897,12 +10398,7 @@
     "alpha3Code": "PRY",
     "callingCodes": ["595"],
     "capital": "Asunción",
-    "altSpellings": [
-      "PY",
-      "Republic of Paraguay",
-      "República del Paraguay",
-      "Tetã Paraguái"
-    ],
+    "altSpellings": ["PY", "Republic of Paraguay", "República del Paraguay", "Tetã Paraguái"],
     "region": "Americas",
     "subregion": "South America",
     "population": 6854536,
@@ -11264,11 +10760,7 @@
     "alpha3Code": "PRI",
     "callingCodes": ["1787", "1939"],
     "capital": "San Juan",
-    "altSpellings": [
-      "PR",
-      "Commonwealth of Puerto Rico",
-      "Estado Libre Asociado de Puerto Rico"
-    ],
+    "altSpellings": ["PR", "Commonwealth of Puerto Rico", "Estado Libre Asociado de Puerto Rico"],
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 3474182,
@@ -11369,11 +10861,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "QAT"
@@ -11493,13 +10981,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": ""
@@ -11568,13 +11050,7 @@
     "alpha3Code": "RUS",
     "callingCodes": ["7"],
     "capital": "Moscow",
-    "altSpellings": [
-      "RU",
-      "Rossiya",
-      "Russian Federation",
-      "Российская Федерация",
-      "Rossiyskaya Federatsiya"
-    ],
+    "altSpellings": ["RU", "Rossiya", "Russian Federation", "Российская Федерация", "Rossiyskaya Federatsiya"],
     "region": "Europe",
     "subregion": "Eastern Europe",
     "population": 146599183,
@@ -11593,22 +11069,7 @@
       "UTC+11:00",
       "UTC+12:00"
     ],
-    "borders": [
-      "AZE",
-      "BLR",
-      "CHN",
-      "EST",
-      "FIN",
-      "GEO",
-      "KAZ",
-      "PRK",
-      "LVA",
-      "LTU",
-      "MNG",
-      "NOR",
-      "POL",
-      "UKR"
-    ],
+    "borders": ["AZE", "BLR", "CHN", "EST", "FIN", "GEO", "KAZ", "PRK", "LVA", "LTU", "MNG", "NOR", "POL", "UKR"],
     "nativeName": "Россия",
     "numericCode": "643",
     "currencies": [
@@ -11656,12 +11117,7 @@
     "alpha3Code": "RWA",
     "callingCodes": ["250"],
     "capital": "Kigali",
-    "altSpellings": [
-      "RW",
-      "Republic of Rwanda",
-      "Repubulika y'u Rwanda",
-      "République du Rwanda"
-    ],
+    "altSpellings": ["RW", "Republic of Rwanda", "Repubulika y'u Rwanda", "République du Rwanda"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 11553188,
@@ -11718,13 +11174,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "RWA"
@@ -11736,12 +11186,7 @@
     "alpha3Code": "BLM",
     "callingCodes": ["590"],
     "capital": "Gustavia",
-    "altSpellings": [
-      "BL",
-      "St. Barthelemy",
-      "Collectivity of Saint Barthélemy",
-      "Collectivité de Saint-Barthélemy"
-    ],
+    "altSpellings": ["BL", "St. Barthelemy", "Collectivity of Saint Barthélemy", "Collectivité de Saint-Barthélemy"],
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 9417,
@@ -11836,13 +11281,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": null
@@ -11899,11 +11338,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       }
     ],
     "cioc": "SKN"
@@ -11960,11 +11395,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       }
     ],
     "cioc": "LCA"
@@ -11976,11 +11407,7 @@
     "alpha3Code": "MAF",
     "callingCodes": ["590"],
     "capital": "Marigot",
-    "altSpellings": [
-      "MF",
-      "Collectivity of Saint Martin",
-      "Collectivité de Saint-Martin"
-    ],
+    "altSpellings": ["MF", "Collectivity of Saint Martin", "Collectivité de Saint-Martin"],
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 36979,
@@ -12137,11 +11564,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       }
     ],
     "cioc": "VIN"
@@ -12153,11 +11576,7 @@
     "alpha3Code": "WSM",
     "callingCodes": ["685"],
     "capital": "Apia",
-    "altSpellings": [
-      "WS",
-      "Independent State of Samoa",
-      "Malo Saʻoloto Tutoʻatasi o Sāmoa"
-    ],
+    "altSpellings": ["WS", "Independent State of Samoa", "Malo Saʻoloto Tutoʻatasi o Sāmoa"],
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 194899,
@@ -12312,13 +11731,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "STP"
@@ -12330,11 +11743,7 @@
     "alpha3Code": "SAU",
     "callingCodes": ["966"],
     "capital": "Riyadh",
-    "altSpellings": [
-      "SA",
-      "Kingdom of Saudi Arabia",
-      "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
-    ],
+    "altSpellings": ["SA", "Kingdom of Saudi Arabia", "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"],
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 32248200,
@@ -12379,11 +11788,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "KSA"
@@ -12440,13 +11845,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "SEN"
@@ -12458,13 +11857,7 @@
     "alpha3Code": "SRB",
     "callingCodes": ["381"],
     "capital": "Belgrade",
-    "altSpellings": [
-      "RS",
-      "Srbija",
-      "Republic of Serbia",
-      "Република Србија",
-      "Republika Srbija"
-    ],
+    "altSpellings": ["RS", "Srbija", "Republic of Serbia", "Република Србија", "Republika Srbija"],
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 7076372,
@@ -12521,12 +11914,7 @@
     "alpha3Code": "SYC",
     "callingCodes": ["248"],
     "capital": "Victoria",
-    "altSpellings": [
-      "SC",
-      "Republic of Seychelles",
-      "Repiblik Sesel",
-      "République des Seychelles"
-    ],
+    "altSpellings": ["SC", "Republic of Seychelles", "Repiblik Sesel", "République des Seychelles"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 91400,
@@ -12577,13 +11965,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "SEY"
@@ -12640,13 +12022,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "SLE"
@@ -13015,23 +12391,13 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       },
       {
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "SOM"
@@ -13142,13 +12508,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "RSA"
@@ -13322,13 +12682,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": ""
@@ -13511,23 +12865,13 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       },
       {
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "SUD"
@@ -13539,13 +12883,7 @@
     "alpha3Code": "SUR",
     "callingCodes": ["597"],
     "capital": "Paramaribo",
-    "altSpellings": [
-      "SR",
-      "Sarnam",
-      "Sranangron",
-      "Republic of Suriname",
-      "Republiek Suriname"
-    ],
+    "altSpellings": ["SR", "Sarnam", "Sranangron", "Republic of Suriname", "Republiek Suriname"],
     "region": "Americas",
     "subregion": "South America",
     "population": 541638,
@@ -13590,11 +12928,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       },
       {
         "acronym": "USAN",
@@ -13667,14 +13001,7 @@
     "alpha3Code": "SWZ",
     "callingCodes": ["268"],
     "capital": "Lobamba",
-    "altSpellings": [
-      "SZ",
-      "weSwatini",
-      "Swatini",
-      "Ngwane",
-      "Kingdom of Swaziland",
-      "Umbuso waseSwatini"
-    ],
+    "altSpellings": ["SZ", "weSwatini", "Swatini", "Ngwane", "Kingdom of Swaziland", "Umbuso waseSwatini"],
     "region": "Africa",
     "subregion": "Southern Africa",
     "population": 1132657,
@@ -13725,13 +13052,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "SWZ"
@@ -13800,14 +13121,7 @@
     "alpha3Code": "CHE",
     "callingCodes": ["41"],
     "capital": "Bern",
-    "altSpellings": [
-      "CH",
-      "Swiss Confederation",
-      "Schweiz",
-      "Suisse",
-      "Svizzera",
-      "Svizra"
-    ],
+    "altSpellings": ["CH", "Swiss Confederation", "Schweiz", "Suisse", "Svizzera", "Svizra"],
     "region": "Europe",
     "subregion": "Western Europe",
     "population": 8341600,
@@ -13876,11 +13190,7 @@
     "alpha3Code": "SYR",
     "callingCodes": ["963"],
     "capital": "Damascus",
-    "altSpellings": [
-      "SY",
-      "Syrian Arab Republic",
-      "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
-    ],
+    "altSpellings": ["SY", "Syrian Arab Republic", "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"],
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 18564000,
@@ -13925,11 +13235,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "SYR"
@@ -13991,13 +13297,7 @@
     "alpha3Code": "TJK",
     "callingCodes": ["992"],
     "capital": "Dushanbe",
-    "altSpellings": [
-      "TJ",
-      "Toçikiston",
-      "Republic of Tajikistan",
-      "Ҷумҳурии Тоҷикистон",
-      "Çumhuriyi Toçikiston"
-    ],
+    "altSpellings": ["TJ", "Toçikiston", "Republic of Tajikistan", "Ҷумҳурии Тоҷикистон", "Çumhuriyi Toçikiston"],
     "region": "Asia",
     "subregion": "Central Asia",
     "population": 8593600,
@@ -14053,11 +13353,7 @@
     "alpha3Code": "TZA",
     "callingCodes": ["255"],
     "capital": "Dodoma",
-    "altSpellings": [
-      "TZ",
-      "United Republic of Tanzania",
-      "Jamhuri ya Muungano wa Tanzania"
-    ],
+    "altSpellings": ["TZ", "United Republic of Tanzania", "Jamhuri ya Muungano wa Tanzania"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 55155000,
@@ -14108,13 +13404,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "TAN"
@@ -14126,14 +13416,7 @@
     "alpha3Code": "THA",
     "callingCodes": ["66"],
     "capital": "Bangkok",
-    "altSpellings": [
-      "TH",
-      "Prathet",
-      "Thai",
-      "Kingdom of Thailand",
-      "ราชอาณาจักรไทย",
-      "Ratcha Anachak Thai"
-    ],
+    "altSpellings": ["TH", "Prathet", "Thai", "Kingdom of Thailand", "ราชอาณาจักรไทย", "Ratcha Anachak Thai"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 65327652,
@@ -14296,13 +13579,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "TOG"
@@ -14465,11 +13742,7 @@
         "acronym": "CARICOM",
         "name": "Caribbean Community",
         "otherAcronyms": [],
-        "otherNames": [
-          "Comunidad del Caribe",
-          "Communauté Caribéenne",
-          "Caribische Gemeenschap"
-        ]
+        "otherNames": ["Comunidad del Caribe", "Communauté Caribéenne", "Caribische Gemeenschap"]
       }
     ],
     "cioc": "TTO"
@@ -14526,23 +13799,13 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       },
       {
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "TUN"
@@ -14816,13 +14079,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "UGA"
@@ -14929,11 +14186,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "UAE"
@@ -15069,10 +14322,7 @@
         "acronym": "NAFTA",
         "name": "North American Free Trade Agreement",
         "otherAcronyms": [],
-        "otherNames": [
-          "Tratado de Libre Comercio de América del Norte",
-          "Accord de Libre-échange Nord-Américain"
-        ]
+        "otherNames": ["Tratado de Libre Comercio de América del Norte", "Accord de Libre-échange Nord-Américain"]
       }
     ],
     "cioc": "USA"
@@ -15084,11 +14334,7 @@
     "alpha3Code": "URY",
     "callingCodes": ["598"],
     "capital": "Montevideo",
-    "altSpellings": [
-      "UY",
-      "Oriental Republic of Uruguay",
-      "República Oriental del Uruguay"
-    ],
+    "altSpellings": ["UY", "Oriental Republic of Uruguay", "República Oriental del Uruguay"],
     "region": "Americas",
     "subregion": "South America",
     "population": 3480222,
@@ -15150,12 +14396,7 @@
     "alpha3Code": "UZB",
     "callingCodes": ["998"],
     "capital": "Tashkent",
-    "altSpellings": [
-      "UZ",
-      "Republic of Uzbekistan",
-      "O‘zbekiston Respublikasi",
-      "Ўзбекистон Республикаси"
-    ],
+    "altSpellings": ["UZ", "Republic of Uzbekistan", "O‘zbekiston Respublikasi", "Ўзбекистон Республикаси"],
     "region": "Asia",
     "subregion": "Central Asia",
     "population": 31576400,
@@ -15211,12 +14452,7 @@
     "alpha3Code": "VUT",
     "callingCodes": ["678"],
     "capital": "Port Vila",
-    "altSpellings": [
-      "VU",
-      "Republic of Vanuatu",
-      "Ripablik blong Vanuatu",
-      "République de Vanuatu"
-    ],
+    "altSpellings": ["VU", "Republic of Vanuatu", "Ripablik blong Vanuatu", "République de Vanuatu"],
     "region": "Oceania",
     "subregion": "Melanesia",
     "population": 277500,
@@ -15278,11 +14514,7 @@
     "alpha3Code": "VEN",
     "callingCodes": ["58"],
     "capital": "Caracas",
-    "altSpellings": [
-      "VE",
-      "Bolivarian Republic of Venezuela",
-      "República Bolivariana de Venezuela"
-    ],
+    "altSpellings": ["VE", "Bolivarian Republic of Venezuela", "República Bolivariana de Venezuela"],
     "region": "Americas",
     "subregion": "South America",
     "population": 31028700,
@@ -15344,11 +14576,7 @@
     "alpha3Code": "VNM",
     "callingCodes": ["84"],
     "capital": "Hanoi",
-    "altSpellings": [
-      "VN",
-      "Socialist Republic of Vietnam",
-      "Cộng hòa Xã hội chủ nghĩa Việt Nam"
-    ],
+    "altSpellings": ["VN", "Socialist Republic of Vietnam", "Cộng hòa Xã hội chủ nghĩa Việt Nam"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 92700000,
@@ -15405,11 +14633,7 @@
     "alpha3Code": "WLF",
     "callingCodes": ["681"],
     "capital": "Mata-Utu",
-    "altSpellings": [
-      "WF",
-      "Territory of the Wallis and Futuna Islands",
-      "Territoire des îles Wallis et Futuna"
-    ],
+    "altSpellings": ["WF", "Territory of the Wallis and Futuna Islands", "Territoire des îles Wallis et Futuna"],
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 11750,
@@ -15509,13 +14733,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": ""
@@ -15572,11 +14790,7 @@
         "acronym": "AL",
         "name": "Arab League",
         "otherAcronyms": [],
-        "otherNames": [
-          "جامعة الدول العربية",
-          "Jāmiʻat ad-Duwal al-ʻArabīyah",
-          "League of Arab States"
-        ]
+        "otherNames": ["جامعة الدول العربية", "Jāmiʻat ad-Duwal al-ʻArabīyah", "League of Arab States"]
       }
     ],
     "cioc": "YEM"
@@ -15633,13 +14847,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "ZAM"
@@ -15748,13 +14956,7 @@
         "acronym": "AU",
         "name": "African Union",
         "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
+        "otherNames": ["الاتحاد الأفريقي", "Union africaine", "União Africana", "Unión Africana", "Umoja wa Afrika"]
       }
     ],
     "cioc": "ZIM"

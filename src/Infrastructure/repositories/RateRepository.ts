@@ -41,12 +41,7 @@ export default class RateRepository extends BaseRepository implements IRateRepos
         attributes: ["timestamp"],
         include: [
           this.genInclude(this.currencyModel(), ASS_CURRENCY_RATE, ["code"]),
-          this.genInclude(
-            this.rateValueModel(),
-            ASS_RATE_RATE_VALUE,
-            ["value"],
-            rateValueCurrencyInclude
-          ),
+          this.genInclude(this.rateValueModel(), ASS_RATE_RATE_VALUE, ["value"], rateValueCurrencyInclude),
         ],
       };
 
@@ -74,11 +69,7 @@ export default class RateRepository extends BaseRepository implements IRateRepos
   }
 
   public getRatesByCurrency(currency: Currency) {}
-  public getRatesByCurrencyAndTimerange(
-    currency: Currency,
-    startDate: Date,
-    endDate: Date
-  ) {}
+  public getRatesByCurrencyAndTimerange(currency: Currency, startDate: Date, endDate: Date) {}
 
   public async save(rate: IRate): Promise<IRate> {
     try {

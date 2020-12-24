@@ -1,10 +1,6 @@
 "use strict";
 const { Model } = require("sequelize");
-const {
-  ASS_CURRENCY_COUNTRY,
-  ASS_CURRENCY_RATE_VALUE,
-  ASS_CURRENCY_RATE,
-} = require("../config/constants");
+const { ASS_CURRENCY_COUNTRY, ASS_CURRENCY_RATE_VALUE, ASS_CURRENCY_RATE } = require("../config/constants");
 
 module.exports = (sequelize, DataTypes) => {
   class Currency extends Model {

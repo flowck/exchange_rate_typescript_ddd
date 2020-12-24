@@ -24,7 +24,6 @@ app.use("/api", apiV1);
 
 app.use(guardErrors);
 
-if (NODE_ENV !== ENV.TEST)
-  app.listen(PORT, () => console.log(`exchange_rate service up at ${PORT} port.`));
+if (NODE_ENV !== ENV.TEST) app.listen(PORT, () => console.log(`exchange_rate service up at ${PORT} port.`));
 
 export default app;

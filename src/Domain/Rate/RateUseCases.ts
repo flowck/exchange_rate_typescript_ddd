@@ -3,16 +3,15 @@
  * RateController will import this class and match each method to the respective
  * api route;
  */
-
-import RateRepository from "Infrastructure/repositories/RateRepository";
 import { IRate } from "./Rate";
+import IRateRepository from "./IRateRepository";
 
 export default class RateUseCases {
-  private repository!: RateRepository;
+  private repository!: IRateRepository;
 
-  constructor(models: any) {
-    if (!models) throw Error("Please provide models object");
-    this.repository = new RateRepository(models);
+  constructor(repository: IRateRepository) {
+    if (!repository) throw Error("Please provide a repository.");
+    this.repository = repository;
   }
 
   private ok<T>(data: T): Promise<T> {

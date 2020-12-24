@@ -3,13 +3,14 @@ import Controller from "./BaseController";
 import { Request, Response } from "express";
 import RateUseCases from "Domain/Rate/RateUseCases";
 const models = require("Infrastructure/sequelize/models");
+import RateRepository from "Infrastructure/repositories/RateRepository";
 
 export default class RateController extends Controller {
   public rateUseCases!: RateUseCases;
 
   constructor() {
     super();
-    this.rateUseCases = new RateUseCases(models);
+    this.rateUseCases = new RateUseCases(new RateRepository(models));
   }
 
   public async getRates(req: Request, res: Response) {

@@ -11,12 +11,12 @@ An implementation of https://docs.openexchangerates.org/
 
 Actors:
 
-* Client: User that requests services from the system.
-* Admin: User that manages the system.
+- Client: User that requests services from the system.
+- Admin: User that manages the system.
 
 ## How to run
 
-1 - Start database service through docker: `npm run db:run`
+1 - Start database service using docker: `npm run db:run`
 
 2 - Create a new database: `npm run db:create`
 
@@ -25,6 +25,10 @@ Actors:
 4 - Install dependencies: `npm install`
 
 5 - Run: `npm start`
+
+## Firing requests
+
+`curl http://localhost:8080/api/v1/rates`
 
 ## Project structure
 

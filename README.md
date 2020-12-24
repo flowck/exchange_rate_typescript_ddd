@@ -39,6 +39,12 @@ src/
   | Instrastructure/
 ```
 
+### Parts involved during the processing of a request
+
+![How the system process a request](./_docs/request-processing.png)
+
+> Being updated based on the system evolution.
+
 ## License
 
 Under MIT license

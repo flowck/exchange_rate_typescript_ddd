@@ -1,4 +1,4 @@
-import Controller from "./Controller"
+import Controller from "./BaseController";
 import { Request, Response } from "express";
 import User, { IUser } from "Domain/User/User";
 const models = require("Infrastructure/sequelize/models");
@@ -20,7 +20,7 @@ export default class UserController extends Controller {
     const { email }: IUser = request.body;
 
     // Check email on the DB
-    const user: User = await this.repository.findUserByEmail(email)
+    const user: User = await this.repository.findUserByEmail(email);
 
     this.responseOk(response, user);
   }

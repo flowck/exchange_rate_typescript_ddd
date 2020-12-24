@@ -1,6 +1,6 @@
 /**
- * User entity 
-*/
+ * User entity
+ */
 import Entity from "../Entity";
 
 export interface IUser {

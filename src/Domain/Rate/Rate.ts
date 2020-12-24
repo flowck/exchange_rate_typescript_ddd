@@ -30,7 +30,7 @@ export default class Rate extends Entity {
       baseCurrenciesId: this.baseCurrenciesId,
       equivalentCurrenciesId: this.equivalentCurrenciesId,
       value: this.value,
-      timestamp: this.getTimestamp
-    }
+      timestamp: this.getTimestamp,
+    };
   }
 }

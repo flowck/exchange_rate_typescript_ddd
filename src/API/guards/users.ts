@@ -3,6 +3,6 @@ import Joi from "joi";
 export const login = {
   body: Joi.object({
     email: Joi.string().email().required(),
-    password: Joi.string().min(3).max(50)
-  })
-}
+    password: Joi.string().min(3).max(50),
+  }),
+};

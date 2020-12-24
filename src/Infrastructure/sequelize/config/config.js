@@ -7,11 +7,11 @@ const defaultConfig = {
   password: PG_PASSWORD,
   database: `${PG_DATABASE_NAME}_${NODE_ENV}`,
   host: PG_HOST,
-  dialect: "postgres"
+  dialect: "postgres",
 };
 
 module.exports = {
-  "development": defaultConfig,
-  "test": defaultConfig,
-  "production": defaultConfig
-}
+  development: defaultConfig,
+  test: defaultConfig,
+  production: defaultConfig,
+};

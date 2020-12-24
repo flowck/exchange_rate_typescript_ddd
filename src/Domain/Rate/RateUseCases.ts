@@ -19,7 +19,7 @@ export default class RateUseCases {
     return Promise.resolve(data);
   }
 
-  private notOk<T>(exception: T): Promise<T> {
+  private fail<T>(exception: T): Promise<T> {
     return Promise.reject(exception);
   }
 
@@ -28,7 +28,7 @@ export default class RateUseCases {
       const _rate = await this.repository.save(rate);
       return this.ok(_rate);
     } catch (error) {
-      return this.notOk(error);
+      return this.fail(error);
     }
   }
 
@@ -37,12 +37,13 @@ export default class RateUseCases {
       const rates = await this.repository.getRates();
       return this.ok(rates);
     } catch (error) {
-      this.notOk(error);
+      console.log(error);
+      return this.fail(error);
     }
   }
 
-  public viewRate() { }
-  public updateRate() { }
-  public removeRate() { }
-  public viewRatesByTimeInterval() { }
+  public viewRate() {}
+  public updateRate() {}
+  public removeRate() {}
+  public viewRatesByTimeInterval() {}
 }

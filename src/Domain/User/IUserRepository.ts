@@ -1,3 +1,3 @@
 export default abstract class IUserRepository {
-  public findUserByEmail(email: string) { }
+  public findUserByEmail(email: string) {}
 }

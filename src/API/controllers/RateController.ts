@@ -1,5 +1,5 @@
 import Rate from "Domain/Rate/Rate";
-import Controller from "./Controller"
+import Controller from "./BaseController";
 import { Request, Response } from "express";
 import RateUseCases from "Domain/Rate/RateUseCases";
 const models = require("Infrastructure/sequelize/models");
@@ -13,14 +13,22 @@ export default class RateController extends Controller {
   }
 
   public async getRates(req: Request, res: Response) {
-    const rates = await this.rateUseCases.viewRates();
-    this.responseOk(res, rates);
+    try {
+      const rates = await this.rateUseCases.viewRates();
+      this.responseOk(res, rates);
+    } catch (error) {
+      this.response500(res);
+    }
   }
 
   public async registRate(req: Request, res: Response) {
-    const { baseCurrenciesId, equivalentCurrenciesId, value } = req.body;
-    const rate = new Rate(baseCurrenciesId, equivalentCurrenciesId, value).create();
-    const result = await this.rateUseCases.registRate(rate);
-    this.responseOk(res, result);
+    try {
+      const { baseCurrenciesId, equivalentCurrenciesId, value } = req.body;
+      const rate = new Rate(baseCurrenciesId, equivalentCurrenciesId, value).create();
+      const result = await this.rateUseCases.registRate(rate);
+      this.responseOk(res, result);
+    } catch {
+      this.response500(res);
+    }
   }
 }

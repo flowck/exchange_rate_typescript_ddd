@@ -34,7 +34,7 @@ Actors:
 
 ```
 src/
-  | API/
+  | API/ (Presentation / API layer: http, graphql, gRPC)
   | Domain/
   | Instrastructure/
 ```

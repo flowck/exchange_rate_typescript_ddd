@@ -4,11 +4,11 @@
 import morgan from "morgan";
 import helmet from "helmet";
 import express from "express";
-import apiV1 from "API/routes/v1";
+import apiV1 from "API/http/routes/v1";
 import bodyParser from "body-parser";
 import compression from "compression";
 import { ENV } from "Infrastructure/constants";
-import guardErrors from "./middleware/guardsErrors";
+import guardErrors from "API/http/middleware/guardsErrors";
 
 const app = express();
 const { NODE_ENV } = process.env;

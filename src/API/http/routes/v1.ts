@@ -1,6 +1,6 @@
 import { Router } from "express";
-import users from "API/routes/users";
-import rates from "API/routes/rates";
+import users from "API/http/routes/users";
+import rates from "API/http/routes/rates";
 
 const router = Router();
 

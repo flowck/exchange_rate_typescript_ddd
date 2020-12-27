@@ -1,4 +1,4 @@
-import Controller from "./BaseController";
+import Controller from "../BaseController";
 import { Request, Response } from "express";
 import User, { IUser } from "Domain/User/User";
 const models = require("Infrastructure/sequelize/models");

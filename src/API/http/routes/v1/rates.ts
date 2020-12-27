@@ -1,6 +1,6 @@
 import { Router } from "express";
 import selfish from "Infrastructure/utils/selfish";
-import RateController from "API/http/controllers/RateController";
+import RateController from "API/http/controllers/v1/RateController";
 
 const router = Router();
 const controller = selfish(new RateController());

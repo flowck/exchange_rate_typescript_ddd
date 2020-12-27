@@ -1,5 +1,5 @@
 import Rate from "Domain/Rate/Rate";
-import Controller from "./BaseController";
+import Controller from "../BaseController";
 import { Request, Response } from "express";
 import RateUseCases from "Domain/Rate/RateUseCases";
 const models = require("Infrastructure/sequelize/models");
